@@ -147,6 +147,6 @@ Possible extensions of this project include:
 This project was completed collaboratively as part of a machine translation analysis study by:
 
 **Faniyo Noor**  
-**Nafisa Adams** 
+**Nafisah Adams** 
 
 BSc Data Science and Analytics  
